@@ -15,3 +15,5 @@ Looking forward to implementing the hardware prototype and further refining the 
 - Output ripple behavior
 - Current limiting near 200mA
 - Stable regulation under resistive load
+- 
+<img width="1919" height="906" alt="Screenshot 2026-05-16 151402" src="https://github.com/user-attachments/assets/6cfb2ee4-6040-494e-9cd7-3491c7a45bdf" />
